@@ -1,0 +1,33 @@
+
+.App {
+  text-align: center;
+  margin: 20px;
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.filter {
+  margin: 20px 0;
+}
+
+.filter input {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.filter input[type="text"] {
+  width: 200px;
+}
+
+.filter input[type="number"] {
+  width: 100px;
+}
